@@ -38,7 +38,7 @@ FRRFLLFFRRFLL
 
 
 2.	Execute the program from your command-line
--	Run the following: “python3 martain_robots.py”
+-	Run the following: “python3 MartainRobots.py”
 Note: please ensure you have python3 installed and running https://www.python.org/downloads/
 
 3.	Locate the output file:
